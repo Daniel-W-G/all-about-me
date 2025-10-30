@@ -1,22 +1,11 @@
-# Selamat Berjumpa {.unnumbered}
+# Pendahuluan {.unnumbered}
 
-![About Me](images/AZRL.png){width=950%}
+**Perkenalan Singkat**
 
-Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
+![](images/LANTIK.jpg){width=50% align=center}
 
-Lahir di Tomohon 1962 dari pasangan Manado dan Sunda. Saat ini tinggal di Bandung, menikah dengan Ina dan dikaruniai empat anak. Ayah dari Gladys, Kezia, Andria, dan Marco.
+Daniel Wicaksana Godjali adalah seorang mahasiswa Sekolah Teknik Elektro dan Informatika - Komputasi angkatan 2024. Lahir di Bandung, pada tanggal 7 Mei 2006. Daniel merupakan anak ke-2 dari 2 bersaudara.
 
-Sharing pikiran singkat ada di blog <https://azrl.wordpress.com>. Facebookk: armein_langi
+Laman ini adalah pemaparan dari rangkaian Tugas Ujian II-2100. Berisi tentang cerita-cerita diri saya, suara dan rasa saya ke orang-orang yang saya hargai, Pendapat saya ke beragam hal, dan lain-lain.
 
-Andria, putri saya, lumayan sering membaca blog ini.  Dia juga sumber inspirasi tulisan saya.  Dia senang menceritakan jokes pada saya, dan kalau bagus saya tulis di sini, terutama seri Kocak Ala Andria.  Dan dia suka heran, karena isinya sudah berbeda.  Memang saya senang mengubah-ngubah cerita karena saya tidak suka menjiplak mentah-mentah.  Minggu lalu tidak sengaja dia memuji tulisan blog ini.
-
-
-“Papa… papa… “, tanyanya, “Tulisan blog papa itu copy-paste dari tulisan orang ya…?”
-
-Haa? Ya nggak mungkin lah.  Kecuali lirik lagu, semua artikel di sini ditulis sendiri.
-
-“Ah bohong, soalnya tulisannya terlalu banyak….” katanya tetap tidak percaya, “Nggak mungkinlah papa tulis sendiri…”
-
-Hehe, saya tersenyum sambil membelai Andria, karena buat saya itu adalah ultimate compliment.  Thanks sweetheart…
-
-Jadi kalau orang tidak percaya bahwa sesuatu itu karya anda, anda yang buat, jangan marah.  Itu adalah pujian yang sejati.
+Semoga apa yang saya kemukakan di situs ini bisa tersampaikan dan bermanfaat bagi pembaca (bila ada). Silahkan mengunjungi navbar di sisi kiri untuk melanjutkan.
