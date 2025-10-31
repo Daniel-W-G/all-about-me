@@ -32,8 +32,6 @@ format:
   pdf:
     documentclass: scrreprt
 
-resources: 
-  - skor.csv
 
 
 
