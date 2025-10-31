@@ -1,7 +1,7 @@
 ## UTS-5 My Personal Reviews
-Berikut cara saya melakukan review: mengguan chatGPT, saya mengattach [file promt ChatGPT](skor_uts.pdf), disertai perintah :"self assess uts-1 sanpai uts-5 dari URL 'https://ii-2100.github.io/all-about-me/'"  
+Berikut cara saya melakukan review: mengguan chatGPT, saya mengattach [file promt ChatGPT](skor_uts.pdf), disertai perintah :"self assess uts-1 sanpai uts-5 dari URL 'https://daniel-w-g.github.io/all-about-me/'"  
 
-ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
+Claude AI melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](skor.csv).
 
 # Hasil Self-Assessment UTS (URL: ii-2100.github.io/all-about-me)
 
@@ -25,61 +25,57 @@ ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda
 
 ### UTS-1 — All About Me (di beranda)
 
-**Skor per kriteria:** Orisinalitas **3**, Keterlibatan **3**, Humor **1**, Wawasan/Insight **3** → **Total 10/20 (50%)**.
-**Alasan singkat:** Perkenalan diri faktual dan jelas, namun gaya masih informatif ketimbang naratif (minim humor dan moment “hook”). ([II 2100][1])
-**Saran perbaikan:** Buka dengan anekdot pribadi (1–2 paragraf) yang “mengikat” (mis. titik balik karier/keluarga), tambahkan satu momen humor ringan, lalu tutup dengan refleksi singkat tentang nilai/visi diri agar aspek insight naik.
+**Skor per kriteria:** Orisinalitas **4**, Keterlibatan **3**, Humor **2**, Wawasan/Insight **4** → **Total 13/20 (66%)**.
+**Saran perbaikan:** 1. Tambahkan elemen humor yang natural 2. Buat narasi yang lebih engaging dengan teknik storytelling 3. Pertimbangkan menambahkan anekdot singkat yang ilustratif untuk poin penting 4. Perkuat hook di awal setiap section 5. Pertimbangkan format visual yang lebih menarik
 
 ### UTS-2 — My Songs for You
 
-**Skor per kriteria:** Orisinalitas **2**, Keterlibatan **2**, Humor **1**, Inspirasi **2** → **Total 7/20 (35%)**.
-**Alasan singkat:** Halaman menampilkan judul lagu “River in my Mind”, “Heaven on Earth”, namun tanpa lirik/cerita di balik lagu sehingga sulit menilai aspek pesan, humor, dan inspirasi. ([II 2100][2])
-**Saran perbaikan:** Tambahkan lirik lengkap, 1 paragraf cerita proses kreatif, dan 2–3 kalimat “pesan untukmu” agar inspirasi terbaca; sertakan player/tautan yang dapat diputar langsung + fallback transkrip.
+**Skor per kriteria:** Orisinalitas **5**, Keterlibatan **4**, Humor **3**, Inspirasi **5** → **Total 17/20 (86%)**.
+**Saran perbaikan:** 1. Tambahkan konteks atau penjelasn singkat tentang kaitan lagu dengan keluarga 2. Sertakan audio atau video performance
 
 ### UTS-3 — My Stories for You
 
-**Skor per kriteria:** Orisinalitas **5**, Keterlibatan **5**, Pengembangan Narasi **4**, Inspirasi **5** → **Total 19/20 (95%)**.
-**Alasan singkat:** Cerita “Gaun Pengantin Gladys” dkk sangat personal, emosional, dan inspiratif; ritme bertutur hidup serta detail situasional kuat (konten ramu unsur penebusan/keluarga/iman). ([II 2100][3])
-**Saran perbaikan:** Tambah “lead” 2–3 kalimat yang merangkum pesan kunci tiap cerita; akhiri dengan ajakan/refleksi 1–2 kalimat agar resonansi ke pembaca makin jelas.
+**Skor per kriteria:** Orisinalitas **4**, Keterlibatan **4**, Pengembangan Narasi **5**, Inspirasi **4** → **Total 17/20 (86%)**.
+**Saran perbaikan:** 1. Elaborasi tentang proses recovery 2. Menambahkan refleksi lebih dalam tentang apa yng dipelajari dari pengalaman tersebut 3. Ending bisa diperkuat dengan contoh konkret penerapan nilai sekarang 4. Eksplorasi lebih cerita tentang dendam sebagai motivasi
 
 ### UTS-4 — My SHAPE
 
-**Skor per kriteria:** Orisinalitas **1**, Keterlibatan **1**, Pengembangan **1**, Inspirasi **1** → **Total 4/20 (20%)**.
-**Alasan singkat:** Konten belum tersedia. ([II 2100][4])
-**Saran perbaikan (prioritas):**
-
-1. Tampilkan rekap SHAPE (Spiritual gifts, Heart, Abilities, Personality, Experiences) dalam 1 tabel ringkas + 3–5 butir bukti;
-2. Narasikan 2 pengalaman kunci (±150 kata/each) yang menunjukkan “signature strengths”;
-3. Tutup dengan 3 rencana aksi konkret (who/what/when).
-
-### UTS-5 — My Personal Reviews
-
-**Skor per kriteria:** Pemahaman Konsep **2**, Analisis Kritis **1**, Argumentasi (Logos) **1**, Etos & Empati **2**, Rekomendasi **1** → **Total 7/25 (28%)**.
-**Alasan singkat:** Halaman berisi metode cara menilai, tetapi **belum ada** contoh **review personal** yang lengkap terhadap sebuah pesan/teks sehingga aspek analisis-argumentasi tak terbaca. ([II 2100][5])
-**Saran perbaikan:** Pilih 1 karya personal (mis. UTS-1/2/3), tulis review 400–600 kata: ringkas pesan, nilai dengan rubrik, berikan 2–3 bukti kutipan, evaluasi etos/empati, lalu tutup dengan rekomendasi perbaikan spesifik.
+**Skor per kriteria:** Orisinalitas **3**, Keterlibatan **2**, Pengembangan **4**, Inspirasi **3** → **Total 12/20 (60%)**.
+**Saran perbaikan (prioritas):** 1. Ubah format dari list menjadi narative essay 2. Tambahkan anekdot atau contoh konkret di setiap poin 3. Buat visualisasi seperti diagram/infografis 4. Integrasikan certia dari UTS-1 dan UTS-3 4. Tambahkan Action Plan 90 Hari yang Konkret 6. Jelaskan mengapa di setiap pilihan 7. Menambahkan refleksi tentang gap antara ideal self dan actual self
 
 ---
 
 ## Rekap Skor (ringkas)
 
-* **UTS-1:** 10/20 → **50%**
-* **UTS-2:** 7/20 → **35%**
-* **UTS-3:** 19/20 → **95%**
-* **UTS-4:** 4/20 → **20%**
-* **UTS-5:** 7/25 → **28%**
+* **UTS-1:** 13/20 : 3.3 → **66%**
+* **UTS-2:** 17/20 : 4.3 → **86%**
+* **UTS-3:** 17/20 : 4.3 → **86%**
+* **UTS-4:** 12/20 : 3.0 → **60%**
 
-CSV lengkap sudah saya siapkan untuk dokumentasi dan olah lanjut: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
 
-## Langkah Perbaikan Cepat (prioritas 1 minggu)
+## Perhitungan Nilai Sementara
 
-1. **Lengkapi UTS-4 (My SHAPE)** sesuai saran di atas;
-2. **Tambahkan lirik + sinopsis** untuk tiap lagu di UTS-2 agar bisa dinilai isi/inspirasinya;
-3. **Tulis 1 review personal penuh** (UTS-5) memakai rubrik (pilih salah satu karya Anda sendiri sebagai objek);
-4. Revisi UTS-1 dengan pembuka anekdot + refleksi nilai diri.
+**Bobot UTS & Poin:**
 
-Jika Anda mau, saya bisa bantu merapikan UTS-4 (tabel SHAPE + narasi) dan membuat kerangka cepat untuk **review** di UTS-5 dari salah satu karya Anda.
+* **UTS-1:** 6
 
-[1]: https://ii-2100.github.io/all-about-me/ "Armein Z. R. Langi"
-[2]: https://ii-2100.github.io/all-about-me/My_Song_for_You/index.html "2  My Songs for You – Armein Z. R. Langi"
-[3]: https://ii-2100.github.io/all-about-me/My_Stories_for_You/index.html "3  My Stories for You – Armein Z. R. Langi"
-[4]: https://ii-2100.github.io/all-about-me/My_Shapes/index.html "4  My Shapes – Armein Z. R. Langi"
-[5]: https://ii-2100.github.io/all-about-me/My_Personal_Reviews/index.html "5  My Personal Reviews – Armein Z. R. Langi"
+* **UTS-2:** 7
+
+* **UTS-3:** 7
+
+* **UTS-4:** 6
+
+* **UTS-5:** 10 (belum dihitung)
+
+**Total: 26 (UTS-5 belum dihitung**)
+
+
+* **CPMK-1:** 15.84 / 24(UTS-1)
+
+* **CPMK-2:** 22.37 / 26 (UTS-2, UTS-3)
+
+* **CPMK-3:** 14.40 / 24 (UTS-4)
+
+* **Total UTS:** 52.61/74 (tanpa UTS-5)
+
+* **Persentase Akhir:** 71.1% -> index 3
