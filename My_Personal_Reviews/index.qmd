@@ -114,3 +114,5 @@ UTS-3: 4.0
 UTS-4: 3.5
 
 [Assessment UTS-5](UTS-5_Skor.xlsx)
+
+[Dokumen Self-Assessment](Self-Assessment%20UTS-1%20sampai%20UTS-5%20-%20Daniel%20W.G_.pdf)
