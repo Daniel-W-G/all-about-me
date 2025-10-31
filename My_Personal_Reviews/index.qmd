@@ -80,6 +80,7 @@ Claude AI melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang An
 
 * **Persentase Akhir:** 71.1% -> index 3
 
+---
 # Hasil Peer Assessment UTS
 
 * **18224122 Tyara Penelope Lumban Gaol** 
