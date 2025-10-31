@@ -7,17 +7,17 @@ ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda
 
 ## Identifikasi
 
-* Nama & NIM penulis: **Armein Z. R. Langi – 131902360** (tertera di halaman depan portofolio). ([II 2100][1])
-* Penilai: **Self-assessment (Armein Z. R. Langi)**
-* Catatan cakupan: halaman beranda memuat “About Me”; navigasi ke “My Songs for You”, “My Stories for You”, “My Shapes”, dan “My Personal Reviews” tersedia. ([II 2100][1])
+* Nama & NIM penulis: **Daniel Wicaksana Godjali – 18224114** (tertera di halaman depan portofolio). ([Pendahuluan](../index.qmd))
+* Penilai: **Self-assessment (Daniel Wicaksana Godjali)**
+* Catatan cakupan: halaman beranda memuat “About Me”; navigasi ke “My Songs for You”, “My Stories for You”, “My Shapes”, dan “My Personal Reviews” tersedia. ([Pendahuluan](../index.qmd))
 
 ## Tinjauan Umum
 
-* **UTS-1 (All About Me)** hadir di beranda (“Selamat Berjumpa / About Me”). Isi memperkenalkan identitas dan latar personal secara padat. ([II 2100][1])
-* **UTS-2 (My Songs for You)** memuat judul karya dan tautan audio, namun lirik/isi tidak ditampilkan di halaman (file audio tidak bisa saya akses dari sini), sehingga penilaian konten terbatas pada kelengkapan presentasi. ([II 2100][2])
-* **UTS-3 (My Stories for You)** berisi tautan ke beberapa cerita; konten naratif kuat, terutama pada kisah keluarga “Gaun Pengantin Gladys” serta kisah inspiratif lainnya. ([II 2100][3])
-* **UTS-4 (My SHAPE)** saat ini halaman kosong/tanpa isi, hanya navigasi. ([II 2100][4])
-* **UTS-5 (My Personal Reviews)** berisi metode/tautan panduan review, namun belum ada contoh **review personal** yang lengkap terhadap sebuah pesan/teks. ([II 2100][5])
+* **UTS-1 (All About Me)** hadir di beranda (“All About Me”). Isi memperkenalkan identitas dan latar personal secara padat beserta diri saya sebagai seorang manusia (pikiran, perasaan, dan nilai yang saya anut). ([All About Me](../All_About_me/index.qmd))
+* **UTS-2 (My Songs for You)** memuat judul karya dan tautan video/audio, audio tidak dapat diakses langsung, jadi penilaian sebatas lirik dan tautan video/audio. ([My Songs for You](../My_Song_for_You/index.qmd))
+* **UTS-3 (My Stories for You)** berisi sebuah cerita singkat yang berasal dari pengalaman diri saya sendiri. ([My Stories for You](../My_Stories_for_You/index.qmd))
+* **UTS-4 (My SHAPE)** berisi SHAPE saya beserta deskripsinya (Spiritual Gifts, Heart, Abilities, Personality, Experiences) ([My SHAPE](../My_Shapes/index.qmd))
+* **UTS-5 (My Personal Reviews)** berisi metode/tautan panduan review ([My Personal Reviews](../My_Personal_Reviews/index.qmd))
 
 ---
 

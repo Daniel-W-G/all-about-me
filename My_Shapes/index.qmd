@@ -18,60 +18,46 @@ Sumber [VIA assessment](StrengthsProfile-Daniel-WG.pdf)
 
 ## H — Heart (Minat, Nilai, Kepedulian)
 
-* Pendidikan yang **mencipta nilai** (CPMK↔rubrik↔artefak nyata).
-* **GRACE**: kualitas hidup lansia/keluarga melalui sistem dukung cerdas & komunitas saling-melayani.
-* **Gereja & Komunitas**: penguatan iman, kesalingan, dan pelayanan kasih.
-* **Kreativitas naratif**: kisah/novel/lirik sebagai sarana edukasi & pengharapan.
-* **Rekayasa cerdas & AI** untuk kemaslahatan.
+* **JUSTICE**: sebuah hidup yang adil dan tidak menceng serta bebas kejahatan dan seimbang
+* **Kreativitas naratif**: novel, cerita, fanfic sebagai media ekspresi dunia dan kemungkinan-kemungkinan yang ada
+* **Software Engineering/CyberSecurity/Back-end engineer**
 
-**Masalah yang ingin dipecahkan:** kesenjangan antara pengetahuan–karakter–aksi; pembelajaran kurang bermakna; layanan komunitas belum terukur dampaknya.
 
 ---
 
 ## A — Abilities (Kemampuan Andal)
 
-* **Perancangan sistem** (PSKVE/TISE), *value co‑creation*, finansial rekayasa, desain instrumen penilaian.
-* **Kurikulum & pedagogi**: CPMK↔rubrik↔tugas↔bukti; otomasi alur kerja (Python/Quarto/GitHub).
-* **Riset & penulisan ilmiah**; **karya kreatif** (prosa, lirik, ceramah/khotbah).
-* **Teknis**: Python, R, Prolog (ontologi), Modelica, Quarto/LaTeX, Obsidian, GitHub, Graphviz.
-* **Komunikasi & kepemimpinan**: orasi publik, fasilitasi sarasehan, negosiasi kolaborasi.
+* **Hobby & Keterampilan**: Catur, Bulutangkis 
+* **Teknis**: Python, Java, CSS, HTML, Github
 
 ---
 
 ## P — Personality (Gaya Kerja & Kolaborasi)
 
-* **Strategis‑sistemik** (melihat gambaran besar, memetakan bagian-bagian).
-* **Reflektif & nilai‑driven** (standar etis & mutu).
-* **Kolaboratif** (membangun jejaring, memberi ruang tumbuh).
-* **Tenang‑tangguh** (fokus hasil jangka panjang).
-* **Pembelajar & pembuat alat** (suka membuat template, rubrik, pipeline).
+* **Strategis‑sistemik** (melihat gambaran besar, memetakan bagian-bagian)
+* **Moral Standards** (memiliki batasan etis dan moral)
+* **Long-term** (fokus hasil jangka panjang)
+* **Minim-Kendali** (Hanya mengatur-atur bila sangat diperlukan)
 
 ---
 
 ## E — Experiences (Pengalaman Pembentuk)
 
-* **Akademik & Riset:** merancang mata kuliah, SLR AI & transformasi digital, proyek GRACE & Smart Engineering.
-* **Pelayanan & Organisasi:** Elder GKI, fasilitator sarasehan, penggalangan dukungan jemaat, pembinaan rohani.
-* **Kreasi Konten:** penulisan novel/khotbah/lirik; produksi materi ajar multi‑format.
-* **Infrastruktur Pengetahuan:** Obsidian–GitHub–Quarto, rubrik otomatis, bank soal.
+* **Akademik & Kompetisi:** Honor Roll Bebras Challange 2022-2023, 6+ Tahun Kursus Coding
+* **Organisasi & Kepanitiaan:** DPP Pengawasan HMIF, MSDM IT Wisokto HMIF 2025
 
-**Pelajaran Inti:** integrasi iman–ilmu–nilai; sistem yang baik melipatgandakan orang baik; narasi menggerakkan aksi.
 
 ---
 
 ## Piagam Diri (Self‑Charter)
 
-**Misi Hidup:** merancang dan menggerakkan ekosistem pembelajaran & pelayanan yang memerdekakan, bermakna, dan berkeadilan.
+**Misi Hidup:** Masih belum tahu
 
-**Nilai Inti:** kasih, integritas, kebijaksanaan, keberanian, mutu, keberpihakan pada yang lemah.
+**Nilai Inti:** integritas, kejujuran, keadilan, ketelitian, kecermatan, rasionalisme, dan kebaikan
 
-**Peran Inti:** Perancang sistem nilai‑pembelajaran; Pembimbing & pengajar; Pemimpin pelayanan komunitas.
+**Peran Inti:** Pelajar & Mahasiswa STEI-K ITB, Anggota DPP bidang Pengawasan HMIF
 
-**Kompas Keputusan:** (1) Dampak pada manusia; (2) Keselarasan nilai; (3) Keberlanjutan; (4) Kemampuan tim mengelola; (5) Bukti terukur.
-
-**Janji Pelayanan:** hadir dengan empati, mendengar, memberi arah praktis, membangun alat agar orang lain bertumbuh.
-
-**Batasan:** menolak proyek yang mengabaikan martabat manusia/etika; menjaga ritme kerja‑istirahat‑keluarga.
+**Kompas Keputusan:** (1) Dampak ke orang lain & lingkungan; (2) Keselarasan nilai; (3) Keberlanjutan & masa depan; (4) Kemampuan pengelolaan, perawatan, dan pelaksanaan; (5) Bukti & fakta rasional
 
 
 ---
