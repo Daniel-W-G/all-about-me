@@ -9,10 +9,217 @@ Serta dilakukan PEER assessmen oleh 3 orang berbeda yaitu:
 
 3. Aisyah Az Zahra	18224121	
 
-Dengan rubrik penilaian yang ada pada file berikut: [UAS_Skor](UAS_Skor.xlsx)
 
 ## Hasil self assesmen
+
+Skala Penilaian:
+5 = Sangat Baik | 4 = Baik | 3 = Cukup | 2 = Kurang | 1 = Sangat Kurang
+
+UAS-1:
+
+Kejelasan                                   :	4
+
+Logika                                      :	4
+
+Validitas (Bukti/Contoh)                    :	4
+
+Kegunaan                                    :	4
+
+
+UAS-2:
+
+Kejelasan Proses	                        :   4
+
+Keterurutan Langkah 	                    :   4
+
+Konsistensi Metode	                        :   4
+
+Reflektivitas                               :	4
+
+
+UAS-3:
+
+Integrasi Konsep                            :	4
+
+Keterkaitan Knowledge–Opinion–Innovation	:   5
+
+Koherensi Keseluruhan                       :	4
+
+Kedalaman Sintesis                          :	4
+
+
+UAS-4:
+
+Orisinalitas                                :	5
+
+Kejelasan                                   :	4
+
+Kelayakan (Feasibility)                     :	4
+
+Dampak                                      :	4
+
+
+
+**Rekap Lengkap UAS**
+
+UAS	Skor
+
+UAS-1 :	4.0
+
+UAS-2 :	4.0
+
+UAS-3 :	4.25
+
+UAS-4 :	4.25
 
 
 
 ## Hasil peer assesmen
+
+ [UAS_Skor](UAS_Skor.xlsx)
+
+---
+
+**1. Rian Albar Insani	11422020**	
+
+
+UAS-1:
+
+Kejelasan                                   :	5
+
+Logika                                      :	5
+
+Validitas (Bukti/Contoh)                    :	5
+
+Kegunaan                                    :	5
+
+
+UAS-2:
+
+Kejelasan Proses	                        :   5
+
+Keterurutan Langkah 	                    :   5
+
+Konsistensi Metode	                        :   5
+
+Reflektivitas                               :	5
+
+
+UAS-3:
+
+Integrasi Konsep                            :	5
+
+Keterkaitan Knowledge–Opinion–Innovation	:   5
+
+Koherensi Keseluruhan                       :	5
+
+Kedalaman Sintesis                          :	5
+
+
+UAS-4:
+
+Orisinalitas                                :	5
+
+Kejelasan                                   :	5
+
+Kelayakan (Feasibility)                     :	5
+
+Dampak                                      :	5
+
+
+---
+
+**2. Ayudia Nisrina Tsabitah	14324016**
+
+
+UAS-1:
+
+Kejelasan                                   :	5
+
+Logika                                      :	5
+
+Validitas (Bukti/Contoh)                    :	5
+
+Kegunaan                                    :	5
+
+
+UAS-2:
+
+Kejelasan Proses	                        :   5
+
+Keterurutan Langkah 	                    :   5
+
+Konsistensi Metode	                        :   5
+
+Reflektivitas                               :	5
+
+
+UAS-3:
+
+Integrasi Konsep                            :	5
+
+Keterkaitan Knowledge–Opinion–Innovation	:   5
+
+Koherensi Keseluruhan                       :	5
+
+Kedalaman Sintesis                          :	5
+
+
+UAS-4:
+
+Orisinalitas                                :	5
+
+Kejelasan                                   :	5
+
+Kelayakan (Feasibility)                     :	5
+
+Dampak                                      :	5
+
+
+---
+
+**3. Aisyah Az Zahra	18224121**	
+
+
+UAS-1:
+
+Kejelasan                                   :	5
+
+Logika                                      :	5
+
+Validitas (Bukti/Contoh)                    :	5
+
+Kegunaan                                    :	5
+
+
+UAS-2:
+
+Kejelasan Proses	                        :   5
+
+Keterurutan Langkah 	                    :   5
+
+Konsistensi Metode	                        :   5
+
+Reflektivitas                               :	5
+
+
+UAS-3:
+
+Integrasi Konsep                            :	5
+
+Keterkaitan Knowledge–Opinion–Innovation	:   5
+
+Koherensi Keseluruhan                       :	5
+
+Kedalaman Sintesis                          :	5
+
+
+UAS-4:
+
+Orisinalitas                                :	5
+
+Kejelasan                                   :	5
+
+Kelayakan (Feasibility)                     :	5
+
+Dampak                                      :	5
