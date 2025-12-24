@@ -1,2 +1,18 @@
 ## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+Review dilakukan secara self-assemssmen menggunakan AI dengan rubrik berikut: [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf)
+
+Serta dilakukan PEER assessmen oleh 3 orang berbeda yaitu:
+
+1. Rian Albar Insani	11422020	
+
+2. Ayudia Nisrina Tsabitah	14324016	
+
+3. Aisyah Az Zahra	18224121	
+
+Dengan rubrik penilaian yang ada pada file berikut: [UAS_Skor](UAS_Skor.xlsx)
+
+## Hasil self assesmen
+
+
+
+## Hasil peer assesmen
