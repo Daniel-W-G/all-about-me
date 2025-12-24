@@ -28,13 +28,13 @@ Kegunaan                                    :	4
 
 UAS-2:
 
-Kejelasan Proses	                        :   4
+Menarik         	                        :   4
 
-Keterurutan Langkah 	                    :   4
+Informatif          	                    :   4
 
-Konsistensi Metode	                        :   4
+Persuasif                                   :   4
 
-Reflektivitas                               :	4
+Enagaging                                   :	4
 
 
 UAS-3:
@@ -96,13 +96,13 @@ Kegunaan                                    :	5
 
 UAS-2:
 
-Kejelasan Proses	                        :   5
+Menarik         	                        :   5
 
-Keterurutan Langkah 	                    :   5
+Informatif          	                    :   5
 
-Konsistensi Metode	                        :   5
+Persuasif                                   :   5
 
-Reflektivitas                               :	5
+Enagaging                                   :	5
 
 
 UAS-3:
@@ -145,13 +145,13 @@ Kegunaan                                    :	5
 
 UAS-2:
 
-Kejelasan Proses	                        :   5
+Menarik         	                        :   5
 
-Keterurutan Langkah 	                    :   5
+Informatif          	                    :   5
 
-Konsistensi Metode	                        :   5
+Persuasif                                   :   5
 
-Reflektivitas                               :	5
+Enagaging                                   :	5
 
 
 UAS-3:
@@ -194,13 +194,13 @@ Kegunaan                                    :	5
 
 UAS-2:
 
-Kejelasan Proses	                        :   5
+Menarik         	                        :   5
 
-Keterurutan Langkah 	                    :   5
+Informatif          	                    :   5
 
-Konsistensi Metode	                        :   5
+Persuasif                                   :   5
 
-Reflektivitas                               :	5
+Enagaging                                   :	5
 
 
 UAS-3:
