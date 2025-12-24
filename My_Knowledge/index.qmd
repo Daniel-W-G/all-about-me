@@ -1,7 +1,5 @@
 ## UAS-4 My Knowledge
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+Pengetahuan yang saya gunakan dalam membahas konflik dan perang berasal dari pemahaman dasar tentang komunikasi interpersonal, konflik sosial, dan toleransi. Dalam komunikasi, konflik muncul ketika pesan yang disampaikan tidak diterima atau dipahami dengan cara yang sama oleh pihak lain. Selain itu, dari sejarah dan sosiologi, saya memahami bahwa konflik sering dipengaruhi oleh ideologi dan kepentingan kolektif. Pengetahuan ini membantu saya melihat konflik sebagai fenomena yang struktural dan berulang dalam kehidupan manusia.
+
+Pengetahuan ini saya pahami dalam konteks pembelajaran dan pengalaman saya sebagai mahasiswa dan juga sebagai warga negara Indonesia.
